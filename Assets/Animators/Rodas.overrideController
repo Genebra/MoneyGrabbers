@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Rodas
+  m_Controller: {fileID: 9100000, guid: be0042fbfb3d799409f5aabdf994191b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0d4fe847175dbfb4fb549438aa70d934, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 24068bfd40690bb4da122dacb109cce9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e7d54663a9c4b8049833497e64be5b3f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f7f6bd49cd157d74ca4b968e97403f31, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 33a86c389f45f4647be32908c83c36f6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f368a1ec2e2c4c44ab7fcb6d42254a6d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3e33f36e8f374ad4b9c7981b89ab77cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9b5eade7643f89a47aa7920e4ff6f003, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bcf39293697d1b6478822e0ae21fbef0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 94814ed3c59a5c144a5a7e0427d47cae, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e40a134b09613ea44a5589aafe4d6172, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d7c09a9081bf67441a1700b0615d2f88, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2712d823588f7b54c9c84e7d8d59c74c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9b3e2a89aa03dea448f037599985a1d0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bbdf158ce9a7979419a5d6d60f020553, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bbae7b5013fdac64ba5289fd1ab207c4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1d2915cde87832b48b2690a9af133771, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4067c8962c7a3c24aa87664f059b94fa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 276619fc4db4b00469c882eb65e4d07d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 54b96f5b2ec5bc5448f392e1759e0f93, type: 2}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Spawner
+  - Chest
+  - Barrier
+  - SpawnArea
+  - Police
+  - Bag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - players
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3096461839
+    locked: 0
+  - name: Floor
+    uniqueID: 3357340521
+    locked: 0
+  - name: Indicator
+    uniqueID: 130054155
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9eab040df0f60b14c873ebb8d4729126
+timeCreated: 1527242764
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player1Prefab: {fileID: 1333015714609676, guid: ecec6c1fbd78fdf48b67e591ba0cd9f9,
+      type: 2}
+  - player2Prefab: {fileID: 1739698840586112, guid: 66ff506cc40cf274e9b025db80d7ec45,
+      type: 2}
+  - player3Prefab: {fileID: 1375627387192790, guid: 7abaff692082d1a46aa501dcfb66af82,
+      type: 2}
+  - player4Prefab: {fileID: 1868325250075876, guid: 1fc7525ec18e4344a8343f024b847799,
+      type: 2}
+  - chestPrefab: {fileID: 1572758974898348, guid: d79442b0d7f95fa4296b32ae019eb2f0,
+      type: 2}
+  - policePrefab: {fileID: 1556350834357894, guid: e4a34ae826d4d704998be8d76e820b77,
+      type: 2}
+  - coin: {fileID: 1723377834450992, guid: b931b75415fdc2440b75dd9c19c1855b, type: 2}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

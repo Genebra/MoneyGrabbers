@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Clarissa
+  m_Controller: {fileID: 9100000, guid: be0042fbfb3d799409f5aabdf994191b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0d4fe847175dbfb4fb549438aa70d934, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b6ba5d31eb3a7044bf8a28139ccb096, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e7d54663a9c4b8049833497e64be5b3f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a37486ab3a6fa9644a934cbdf8de8c62, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 33a86c389f45f4647be32908c83c36f6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e97c3952667f06f44a3614618a971462, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3e33f36e8f374ad4b9c7981b89ab77cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6da2b0ee8d6c8fd4f9568cefb0ac452c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bcf39293697d1b6478822e0ae21fbef0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3efb9b5eb6834d543bdaa345f2f57bd9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e40a134b09613ea44a5589aafe4d6172, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dc4f82d21ce84cc40833fd00113f0fa2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2712d823588f7b54c9c84e7d8d59c74c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6f44172608ff5f543a5c3e9c4b77283c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bbdf158ce9a7979419a5d6d60f020553, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 36940ef6a1dd623488d87078228af6e3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1d2915cde87832b48b2690a9af133771, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6175a1c7b5dfd7241a316ae530ce86ca, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 276619fc4db4b00469c882eb65e4d07d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9143b3925dd51944182ff5090e335e45, type: 2}

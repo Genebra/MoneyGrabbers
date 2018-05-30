@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 228fc2ae739de4a46bbb85bdb6ee9be8
+  - enabled: 1
+    path: Assets/Scenes/Prototype.unity
+    guid: b67452e9401e2734988d179347303146
+  - enabled: 1
+    path: Assets/Scenes/ScoreBoard.unity
+    guid: 23bf823e410b7f4408b5035f5b4c319d
+  - enabled: 1
+    path: Assets/Scenes/AbilitySelection.unity
+    guid: ec1bf3ccdc922264b845e156729aa5ad
+  - enabled: 1
+    path: Assets/Scenes/TutorialSkills.unity
+    guid: 0eba9cbdf4521cd4f99beeb61db77470

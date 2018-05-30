@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Emilia
+  m_Controller: {fileID: 9100000, guid: be0042fbfb3d799409f5aabdf994191b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0d4fe847175dbfb4fb549438aa70d934, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3a4ab55556e1b7f4ab97046d2ea8eb98, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e7d54663a9c4b8049833497e64be5b3f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6d3f3c4af5c71b54aa7a60e63422b0e3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 33a86c389f45f4647be32908c83c36f6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 12b3d483afefa6443a82cbd50ec4bf58, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3e33f36e8f374ad4b9c7981b89ab77cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4947d24918a70b4418fea1ecd0bdaa8e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bcf39293697d1b6478822e0ae21fbef0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5a663011703f02a4a90ba70e3ec737ca, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e40a134b09613ea44a5589aafe4d6172, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: efa1bebe75d14294587f513e01b657f3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2712d823588f7b54c9c84e7d8d59c74c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 956818a1f47973c46b1603c2e85ba947, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bbdf158ce9a7979419a5d6d60f020553, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 944431d47ef10654cb4717d93f85422d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1d2915cde87832b48b2690a9af133771, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e28f8741694f55842a4dc2cc9edad9c2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 276619fc4db4b00469c882eb65e4d07d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e552ed1459b2a484789bb6ffe52f01ee, type: 2}
